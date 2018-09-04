@@ -52,7 +52,7 @@ app.post('/post', (req, res) => {
       const trips = data.root.schedule.request.trip;
 
       // get scheduled trains
-      let schedule = 'Departure       Arrival\n';
+      let schedule = 'Departure      Arrival\n';
       trips.forEach((trip) => {
         // have to use
         schedule += `${trip['@origTimeMin']}        ${trip['@destTimeMin']}\n`;
