@@ -1,0 +1,29 @@
+{
+    "name": "slack-bart",
+    "version": "1.0.0",
+    "description": "Slack slash command to show Bart schedule",
+    "main": "index.js",
+    "dependencies": {
+        "body-parser": "^1.18",
+        "express": "^4.16",
+        "request": "^2.88"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ryadav88/slack-weather.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ryadav88/slack-weather/issues"
+    },
+    "homepage": "https://github.com/ryadav88/slack-weather#readme",
+    "devDependencies": {
+        "eslint": "^5.5.0",
+        "eslint-config-airbnb-base": "^13.1.0",
+        "eslint-plugin-import": "^2.14.0"
+    }
+}
