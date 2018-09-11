@@ -13,14 +13,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ryadav88/slack-weather.git"
+        "url": "git+https://github.com/annakononova/bartbot.git"
     },
     "author": "",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/ryadav88/slack-weather/issues"
+        "url": "https://github.com/annakononova/bartbot/issues"
     },
-    "homepage": "https://github.com/ryadav88/slack-weather#readme",
+    "homepage": "https://github.com/annakononova/bartbot#readme",
     "devDependencies": {
         "eslint": "^5.5.0",
         "eslint-config-airbnb-base": "^13.1.0",
